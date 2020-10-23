@@ -1,0 +1,49 @@
+﻿  JonutzMono.cpp
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\jonutzmono.cpp(31): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\jonutzmono.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\jonutzmono.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\jonutzmono.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  dllmain.cpp
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(81): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(145): warning C4800: 'BYTE': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(149): warning C4800: 'BYTE': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(531): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(537): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(563): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(580): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(601): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(618): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(639): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(663): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(689): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(698): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(720): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(727): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(747): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(749): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(756): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(778): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(785): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(796): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(815): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(817): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(825): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(850): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(852): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(860): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(874): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(902): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(931): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(933): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(937): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(955): warning C4018: '<': signed/unsigned mismatch
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(971): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+c:\users\ionut\documents\visual studio 2015\projects\amongus\amongus\dllmain.cpp(972): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  AmongUs.vcxproj -> C:\Users\Ionut\documents\visual studio 2015\Projects\AmongUs\Debug\AmongUs.dll
+  AmongUs.vcxproj -> C:\Users\Ionut\documents\visual studio 2015\Projects\AmongUs\Debug\AmongUs.pdb (Full PDB)
